@@ -14,3 +14,7 @@ And then, you drop this in the shell:
 python grepSilon.py "Service Info" "Risk factor: High" save.it.to.a.file | grep "Nmap scan report for " | awk '{ print $5 }'
 
 And voilá, the vulnerable hosts are at your feet!
+
+DISCLAIMER
+==========
+This is for educational purposes only. Any kind of unauthorized use is illegal. You know, it's never the sword's fault to harm the victim.
