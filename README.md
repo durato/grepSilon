@@ -18,3 +18,7 @@ And voilá, the vulnerable hosts are at your feet!
 DISCLAIMER
 ==========
 This is for educational purposes only. Any kind of unauthorized use is illegal. You know, it's never the sword's fault to harm the victim.
+
+External links:
+===============
+How to use nmap for heartbleed scans: https://gist.github.com/bonsaiviking/10402038
